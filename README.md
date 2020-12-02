@@ -34,3 +34,8 @@
 - [Silence Mobs](./Datapacks/Silence_Mobs.md)
 - [Track Raw Statistics](./Datapacks/Track_Raw_Statistics.md)
 - [Wandering Trader MicroBlocks](./Datapacks/Wandering_Trader_Mini_Blocks.md)
+
+## Crafting Tweaks
+- [Dropper to Dispenser](./Crafting/Dropper_to_Dispenser.md)
+- [Universal Dyeing](./Crafting/Universal_Dyeing.md)
+- [Unpackable Ice](./Crafting/Unpackable_Ice.md)
