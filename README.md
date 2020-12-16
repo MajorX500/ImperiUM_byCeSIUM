@@ -1,41 +1,59 @@
-# ImperIUM - Mincraft Server
+# ImperIUM - Minecraft Server
+
+
+## MOTD and Icon
+![alt text](./Files/Photos/CeSIUM.png "CeSIUM")
+![alt text](./Files/Photos/Half.png "Mix")
+![alt text](./Files/Photos/Dirt.png "Dirt")
+
+## Seed to be used
+### `-1909600681984991067`
+![alt text](./Files/Photos/Seed-1909600681984991067.png "Screenshot")
+### The Spawn will be on a Mushroom Biome to avoid Hostile mobs to spawn and to make safer "Capital" of the world.
+
+## Pictures of Spawn
+![alt text](./Files/Photos/Spawn1.png "1")
+![alt text](./Files/Photos/Spawn2.png "2")
+![alt text](./Files/Photos/Aerial_Spawn.png "3")
+![alt text](./Files/Photos/Aerial_Spawn(1).png "4")
+![alt text](./Files/Photos/Aerial_Spawn(2).png "5") 
+![alt text](./Files/Photos/Aerial_Spawn(3).png "6") 
 
 ## Mods
 
+- [Bluemap](./Mods/Bluemap.md)
 - [Carpet](./Mods/Carpet.md)
 - [Carpet Extra](./Mods/Carpet_Extra.md)
 - [Carpet TIS Addition](./Mods/Carpet_TIS_Extra.md)
 - [Chunk Pregenerator](./Mods/Chunk_Pregenerator.md)
 - [Leukocyte](./Mods/Leukocyte.md)
 - [Lithium](./Mods/Lithium.md)
-- [WorldEdit](./Mods/WorldEdit.md)
-- [MiniMOTD](./Mods/MiniMOTD)
+- [MiniMOTD](./Mods/MiniMOTD.md)
 - [Phosphor](./Mods/Phosphor.md)
 - [Player Roles](./Mods/PlayerRoles.md)
 - [SAX](./Mods/SAX.md)
 - [SimpleAuth](./Mods/SimpleAuth.md)
-- [Starting Notes](./Mods/Starting_Notes.md)
-- [TinyMap](./Mods/TinyMap.md)
-- [WorldEdit](./Mods/WorldEdit.md)
-
-### If Updated to 1.16.4
-- [Gunpowder Market](./Mods/Gunpowder_Market.md)
-- [Gunpowder Currency](./Mods/Gunpowder_Currency.md)
-- [Gunpowder](./Mods/Gunpowder.md)
+- [Game Start](./Mods/Game_Start.md)
 
 ## Datapacks
-- [Cauldron Concrete](./Datapacks/Cauldron_Concrete.md)
-- [Chunk Loaders](./Datapacks/Chunk_Loaders.md)
-- [Coordinates HUD](./Datapacks/Coordinates_HUD.md)
-- [Custom Nether Portals](./Datapacks/Custom_Nether_Portals.md)
-- [Double Shulker Shells](./Datapacks/Double_Shulker_Shells.md)
-- [Player Head Drops](./Datapacks/Player_Head_Drops.md)
-- [Nether Portal Coords](./Datapacks/Nether_Portal_Coords.md)
-- [Silence Mobs](./Datapacks/Silence_Mobs.md)
-- [Track Raw Statistics](./Datapacks/Track_Raw_Statistics.md)
-- [Wandering Trader MicroBlocks](./Datapacks/Wandering_Trader_Mini_Blocks.md)
+- Anti Enderman Grief
+- Armour Stands
+- Cauldron Concrete
+- Coordinates HUD
+- Custom Nether Portals
+- Double Shulker Shells
+- Player Head Drops
+- More Mob Heads
+- Nether Portal Coords
+- Silence Mobs
+- Track Raw Statistics
+- Wandering Trader MicroBlocks
 
 ## Crafting Tweaks
-- [Dropper to Dispenser](./Crafting/Dropper_to_Dispenser.md)
-- [Universal Dyeing](./Crafting/Universal_Dyeing.md)
-- [Unpackable Ice](./Crafting/Unpackable_Ice.md)
+- Dropper to Dispenser
+- More Trapdoors
+- Universal Dyeing
+- Unpackable Ice
+
+## Available Commands
+- [Commands](./Commands.md)
