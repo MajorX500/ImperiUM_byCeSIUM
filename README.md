@@ -3,13 +3,36 @@
 
 ## MOTD and Icon
 ![alt text](./Files/Photos/CeSIUM.png "CeSIUM")
-![alt text](./Files/Photos/Half.png "Mix")
 ![alt text](./Files/Photos/Dirt.png "Dirt")
 
 ## Seed to be used
 ### `-1909600681984991067`
 ![alt text](./Files/Photos/Seed-1909600681984991067.png "Screenshot")
-### The Spawn will be on a Mushroom Biome to avoid Hostile mobs to spawn and to make safer "Capital" of the world.
+### The WorldSpawn will be on a Mushroom Biome to avoid Hostile mobs to spawn and to make safer "Capital" of the world.
+
+## Welcome Book
+
+### Page 1 
+![alt text](./Files/Photos/Book/page(1).png "Page 1")
+### Page 2
+![alt text](./Files/Photos/Book/page(2).png "Page 2")
+### Page 3
+![alt text](./Files/Photos/Book/page(3).png "Page 3")
+### Page 4
+![alt text](./Files/Photos/Book/page(4).png "Page 4")
+### Page 5
+![alt text](./Files/Photos/Book/page(5).png "Page 5")
+### Page 6
+![alt text](./Files/Photos/Book/page(6).png "Page 6")
+### Page 7
+![alt text](./Files/Photos/Book/page(7).png "Page 7")
+### Page 8
+![alt text](./Files/Photos/Book/page(8).png "Page 8")
+### Page 9
+![alt text](./Files/Photos/Book/page(9).png "Page 9")
+### Page 10
+![alt text](./Files/Photos/Book/page(10).png "Page 10")
+
 
 ## Pictures of Spawn
 ![alt text](./Files/Photos/Spawn1.png "1")

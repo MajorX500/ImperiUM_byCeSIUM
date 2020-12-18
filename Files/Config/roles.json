@@ -37,6 +37,11 @@
       }
     }
   },
+  "user": {
+    "overrides": {
+      "name_style":["aqua"]
+    }
+  },
   "everyone": {
     "overrides": {
       "name_style":["aqua"],
